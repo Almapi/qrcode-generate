@@ -1,0 +1,5 @@
+
+# Do not push any images or static files created by the script to the repository
+*.svg
+*.png
+*.pvm
